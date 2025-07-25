@@ -8,8 +8,9 @@
 ## 🌐 About Me
 
 <p align="left">
-I'm a detail-obsessed developer focused on crafting secure, scalable, and real-world solutions across <b>mobile systems</b>, <b>AI pipelines</b>, and <b>DevOps automation</b>. I thrive on building robust software from the ground up and pushing performance boundaries with clean architecture and low-level control.
+I'm a purpose-driven developer with a sharp focus on building secure, high-impact systems across <b>full-stack development</b> and <b>cybersecurity engineering</b>. From crafting elegant architectures to probing network defenses, I thrive on solving real-world challenges with code. Passionate about creating robust applications, optimizing performance, and fortifying systems against vulnerabilities. I also explore <b>DevOps automation</b> to streamline deployments and scale infrastructure efficiently.
 </p>
+
 
 ### 🔥 Special Focus Areas:
 - 🧱 **Development**: End-to-end systems with clean backend architecture, mobile responsiveness, and real-time APIs
@@ -20,7 +21,7 @@ I'm a detail-obsessed developer focused on crafting secure, scalable, and real-w
 ## 🧠 Skillset Showcase
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,flutter,dart,java,javascript,bash,php,mysql,mongodb,docker,kubernetes,git,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,dart,java,javascript,bash,php,mysql,mongodb,docker,kubernetes,git,linux,aws,postman" />
 </div>
 
 ---
