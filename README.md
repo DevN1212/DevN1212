@@ -21,8 +21,27 @@ I'm a purpose-driven developer with a sharp focus on building secure, high-impac
 ## 🧠 Skillset Showcase
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,dart,java,javascript,bash,php,mysql,mongodb,docker,kubernetes,git,linux,aws,postman" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=flutter" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=dart" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp
+    <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=php" />&nbsp;&nbsp;
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </span>
 </div>
+
 
 ---
 
