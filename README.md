@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <strong>Nikunj V</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&color=00C7FF&width=550&lines=Full-Stack+Problem+Solver+%F0%9F%92%BB;Security+Tinkerer+%F0%9F%94%91;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;AI+Integrator+%F0%9F%A4%96;Always+Learning+%F0%9F%A7%91%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&color=007ACC&width=435&lines=Full-Stack+Problem+Solver+%F0%9F%92%BB;Security+Tinkerer+%F0%9F%94%91;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;AI+Integrator+%F0%9F%A4%96;Always+Learning+%F0%9F%A7%91%E2%99%82%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,24 +9,46 @@
 ## 🌐 About Me  
 
 <p align="center">
-I’m a purpose-driven developer with a sharp focus on building secure, high-impact systems across <b>full-stack development</b> and <b>cybersecurity engineering</b>.  
-From crafting elegant architectures to probing network defenses, I thrive on solving real-world challenges with code.  
-Passionate about creating robust applications, optimizing performance, and fortifying systems against vulnerabilities.  
-I also explore <b>DevOps automation</b> to streamline deployments and scale infrastructure efficiently.
+I'm a purpose-driven developer with a sharp focus on building secure, high-impact systems across <b>full-stack development</b> and <b>cybersecurity engineering</b>. From crafting elegant architectures to probing network defenses, I thrive on solving real-world challenges with code. Passionate about creating robust applications, optimizing performance, and fortifying systems against vulnerabilities. I also explore <b>DevOps automation</b> to streamline deployments and scale infrastructure efficiently.
 </p>
 
 ### 🔥 Special Focus Areas  
-- 🧱 **Development** → Clean backend architecture, real-time APIs, and mobile-first responsiveness  
-- 🛡️ **Security** → Ethical hacking, Wi-Fi penetration testing, reverse engineering, and secure deployments  
+- 🧱 **Development**: End-to-end systems with clean backend architecture, mobile responsiveness, and real-time APIs
+- 🛡️ **Security**: Ethical hacking, Wi-Fi penetration testing, reverse engineering, and secure deployments 
 
 ---
 
 ## 🧠 Skillset Showcase  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,dart,java,javascript,php,html,css" /><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,git,linux,aws,postman" />
+<span>
+  
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />&nbsp;&nbsp;
+
+  <br>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="50" style="margin:10px;" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="50" style="margin:10px;" />&nbsp;&nbsp;
+</span>
+
 </div>
+
 
 ---
 
@@ -47,10 +69,9 @@ I also explore <b>DevOps automation</b> to streamline deployments and scale infr
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DevN1212&theme=tokyonight&hide_border=true" alt="Streak Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevN1212&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevN1212&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevN1212&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevN1212&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DevN1212&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -73,11 +94,8 @@ I also explore <b>DevOps automation</b> to streamline deployments and scale infr
 ---
 
 ## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:nikunjvaghela407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>  
-  <a href="https://github.com/DevN1212"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>  
-</p>
+- 📬 Email: *nikunjvaghela407@gmail.com*
+- 🛠️ GitHub: [DevN1212](https://github.com/DevN1212)
 
 ---
 
