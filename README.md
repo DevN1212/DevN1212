@@ -54,6 +54,7 @@ I'm a purpose-driven developer with a sharp focus on building secure, high-impac
 | 📶 [WiFi_DeAuth](https://github.com/DevN1212/WiFi_DeAuth) | Shell script for testing network vulnerabilities | Shell |
 | 📚 [Digi_Library](https://github.com/DevN1212/Digi_Library) | Intuitive web-based digital library for smarter access | HTML, CSS, JS |
 | 📡 [Wi-Fi Attendance](https://github.com/DevN1212/Wi-Fi-Attendance) | Seamless attendance solution over Wi-Fi | Makefile, Networking |
+| 🌐 [SmartNet](https://github.com/DevN1212/SmartNet) | CIDR-based intelligent network & port scanner | Java, JavaFX, Maven |
 
 ---
 
